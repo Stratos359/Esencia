@@ -1,0 +1,2 @@
+[10-May-2023 14:23:55 America/Chicago] PHP Warning:  Undefined variable $POST in /home1/palmtre2/esencianaxiansuites.com/phpmailer/reserve_template_email.php on line 39
+[10-May-2023 14:23:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/palmtre2/esencianaxiansuites.com/phpmailer/reserve_template_email.php on line 39
